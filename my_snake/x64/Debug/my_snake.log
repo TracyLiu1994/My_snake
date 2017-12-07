@@ -1,0 +1,4 @@
+﻿  main.cpp
+i:\vs_chengxu\learn\snake\my_snake\my_snake\main.cpp(60): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  my_snake.vcxproj -> I:\vs_chengxu\Learn\snake\my_snake\x64\Debug\my_snake.exe
+  my_snake.vcxproj -> I:\vs_chengxu\Learn\snake\my_snake\x64\Debug\my_snake.pdb (Full PDB)
